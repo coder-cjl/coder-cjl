@@ -14,7 +14,7 @@ I'm a Front-end Developer.
 - Marathon (The best half-horse time is 1 hour and 40 minutes.)
 - Travel (I have visited all the provinces in China)
 
-☎️ **联系方式**
+☎️ **Email**
 - cjlsire@126.com
 
 📫 Let's connect on GitHub!
