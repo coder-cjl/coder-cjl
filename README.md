@@ -1,6 +1,4 @@
-## Hi there 👋
-
-👋 **Hi, I'm Lei zi!**
+## 👋 **Hi, I'm Lei zi!**
 
 I'm a Front-end Developer.
 
