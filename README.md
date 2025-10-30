@@ -1,4 +1,5 @@
-## 👋 **Hi, I'm Lei zi!**
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+# 👋 **Hi, I'm Lei zi!**
 
 I'm a Front-end Developer.
 
