@@ -11,7 +11,7 @@ I'm a Front-end Developer.
 🚀 **Hobbies**:
 - Biking (Tour de France China Race)
 - Mountain Climbing (Gongga, Lok, etc)
-- Marathon (The best half-horse time is 1 hour and 40 minutes.)
+- Marathon (The best half marathon time is 1 hour 40 minutes.)
 - Travel (I have visited all the provinces in China)
 
 ☎️ **Email**
