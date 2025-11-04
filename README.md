@@ -17,8 +17,3 @@ I'm a Front-end Developer.
 - cjlsire@126.com
 
 📫 Let's connect on GitHub!
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-cjl&layout=compact)](https://github.com/coder-cjl/github-readme-stats)
-
