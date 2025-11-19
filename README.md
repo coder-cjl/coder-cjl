@@ -13,7 +13,7 @@ I'm a Front-end Developer.
 - Marathon (The best half marathon time is 1 hour 40 minutes.)
 - Travel (I have visited all the provinces in China)
 
-☎️ **Email**
+📧 **Email**
 - cjlsire@126.com
 
 📫 Let's connect on GitHub!
