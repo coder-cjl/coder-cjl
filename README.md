@@ -5,7 +5,7 @@ I'm a Front-end Developer.
 
 💻 **Language Skills**:
 
-`Swift`、`Dart`、`SwiftUI`、`Objective-C`、`TypeScript`、`Python`、`Kotlin`、`Java`
+`Swift`、`Dart`、`SwiftUI`、`Objective-C`、`TypeScript`、`Python`、`Kotlin`、`Java`、`Go`
 
 🚀 **Hobbies**:
 - Biking (Tour de France China Race)
